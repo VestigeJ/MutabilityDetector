@@ -121,8 +121,9 @@ MutabilityDetector4FindBugs is also available from Maven Central, with the follo
 
 #### Contact
 Contact can be made either by leaving comments, by [email](mailto:Grundlefleck+md@gmail.com), or through Gitter.
-
-Gitter is available for OSX, Windows, Linux, iPhone, and Android. It can also be mirror over and IRC Bridge. To install Gitter head over to https://gitter.im/apps for your system. 
 [![Join the chat at https://gitter.im/MutabilityDetector/main](https://badges.gitter.im/MutabilityDetector/main.svg)](https://gitter.im/MutabilityDetector/main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Gitter is available for OSX, Windows, Linux, iPhone, and Android. It can also be mirrored over an IRC Bridge. To install Gitter head over to https://gitter.im/apps for your system. 
+
 
 
